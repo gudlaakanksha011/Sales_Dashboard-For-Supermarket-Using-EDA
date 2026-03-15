@@ -1,4 +1,5 @@
 # Supermarket Sales Exploratory Data Analysis (EDA)
+![Supermarket Sales Dashboard](Supermarket%20Sales%20Dashboard.png)
 
 ## 📊 Project Overview
 This project features an interactive **Supermarket Sales Dashboard** built in Microsoft Excel. The analysis focuses on understanding historical sales trends, customer demographics, and product performance to provide actionable business insights.
